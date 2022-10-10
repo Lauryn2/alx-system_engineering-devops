@@ -1,1 +1,1 @@
-Readme file for *0x02-shell_redirections* directory
+Readme file for *0x02-shell_redirections* directory.
